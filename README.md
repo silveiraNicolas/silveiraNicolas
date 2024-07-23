@@ -1,3 +1,13 @@
+👋 Hello! I'm a mathematician passionate about exploring the world through numbers and algorithms. Currently, I work as a Full Stack Developer at an innovative multinational, Bayer, where I contribute to cutting-edge technological solutions.
+
+🎨 Besides development, I have a strong background in Business Intelligence (BI) and Low Code, facilitating strategic decision-making with valuable insights and efficient automation.
+
+💡 Automation and data science are my passions, and I love turning raw data into meaningful and actionable stories. My journey in data science has been a constant adventure, where each new project is an opportunity to learn and innovate.
+
+🎻 Outside the tech world, I'm a fervent lover of science, I play the violin to relax and express my creativity, and I'm an avid video game enthusiast in my spare time. For me, the intersection of art, science, and technology is where the magic truly happens!
+
+🌟 Let's connect and create something amazing together!
+
 ## Skills:
 
 #### Languages
