@@ -1,3 +1,5 @@
+## About me:
+
 👋 Hello! I'm a mathematician passionate about exploring the world through numbers and algorithms. Currently, I work as a Full Stack Developer at an innovative multinational, Bayer, where I contribute to cutting-edge technological solutions.
 
 🎨 Besides development, I have a strong background in Business Intelligence (BI) and Low Code, facilitating strategic decision-making with valuable insights and efficient automation.
